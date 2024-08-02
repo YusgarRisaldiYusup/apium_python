@@ -24,6 +24,7 @@ pytest  Test/       = run all test
 - .test_appium                           = folder/file to make our test (exp: unit/e2e/integration/etc)
     
   ## video Report
-  - ![Hasil_running1](https://github.com/YusgarRisaldiYusup/apium_python/blob/main/studio64_QUdPtd2dpu.mp4)
+  - [Hasil Running Video](https://github.com/YusgarRisaldiYusup/apium_python/blob/main/studio64_QUdPtd2dpu.mp4)
+
 
 ---
